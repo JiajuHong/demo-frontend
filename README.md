@@ -1,7 +1,4 @@
-# 鱼皮前端万用模板
-
-> 作者：[程序员鱼皮](https://github.com/liyupi)
-> 仅分享于 [编程导航知识星球](https://yupi.icu)
+# 前端万用模板
 
 基于 React + Ant Design 的项目初始模板，整合了常用框架和主流业务的示例代码。
 
@@ -77,6 +74,4 @@
 3）将标题和 logo 等切换为个人
 
 4）测试业务功能
-
-具体万用模板教程：[前端万用模板使用教程 (yuque.com)](https://bcdh.yuque.com/staff-wpxfif/resource/rnv6shm2l57rsx6x) 
 
